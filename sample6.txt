@@ -8,3 +8,4 @@ Changes from original folder
 Changes2 from temp
 changes2 from original
 changes3 from temp
+changes3 from original
